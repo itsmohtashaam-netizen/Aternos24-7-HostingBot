@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "247online",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "Playlagocraft.aternos.me",
+    "port": 60633,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
